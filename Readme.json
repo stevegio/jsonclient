@@ -1,0 +1,23 @@
+{
+  "$jason": {
+    "head": {
+      "title": "Readme",
+      "description": "A Jason View of this repo."
+    },
+    "body": {
+      "sections": [{
+        "items": [{
+          "type": "label",
+          "text": "Hello World",
+          "href": {
+             "url": "https://raw.githubusercontent.com/stevegio/jsonclient/master/hello-world.json",
+             "view": "Jason"
+          }
+        }, {
+          "type": "label",
+          "text": "another json to come"
+        }]
+      }]
+    }
+  }
+}
