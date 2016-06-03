@@ -1,0 +1,19 @@
+{
+  "$jason": {
+    "head": {
+      "title": "OpenIDM Browser",
+      "description": "Testing simple OpenIDM Browser"
+    },
+    "body": {
+      "sections": [{
+        "items": [{
+          "type": "label",
+          "text": "Users"
+        }, {
+          "type": "label",
+          "text": "Roles"
+        }]
+      }]
+    }
+  }
+}

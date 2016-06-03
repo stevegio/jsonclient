@@ -13,7 +13,16 @@
              "url": "https://raw.githubusercontent.com/stevegio/jsonclient/master/hello-world.json",
              "view": "Jason"
           }
-        }, {
+        },
+        {
+        	"type": "label",
+        	"text": "OpenIDM",
+        	"href": {
+        		"url": "https://raw.githubusercontent.com/stevegio/jsonclient/master/openidm.json",
+        		"view": "Jason"
+        	}
+        }, 
+        {
           "type": "label",
           "text": "another json to come"
         }]
